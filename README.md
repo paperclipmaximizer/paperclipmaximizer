@@ -17,3 +17,4 @@
                                     to the fact? Then it could escape unless it is necessarily with us already; 
                                     and if the "medium" refracts it, then the "correction" would give just a 
                                     straight ray (of activity, a glipse) or a blank space (for the object qua fact).
+                                    And for fun, well, I have a pet bird :)
