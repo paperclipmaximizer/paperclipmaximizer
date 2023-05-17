@@ -7,7 +7,7 @@
 - 💬 Ask me about:                  "speculative logic"
 - 📫 How to reach me: ...
 - ⚡ Fun fact:                      Before we attempt the cognition of what is fun, it seems 
-                                    reasonable to ask whether fun facticity is possible. Perhaps there is a special
+                                    reasonable to ask whether facticity is possible. Perhaps there is a special
                                     mode of cognition for it. But scepticism about it seems more reasonable, because 
                                     if our cognition is an instrument it must affect what it is used on (which is 
                                     therefore not fact but thought by virtue of conformity 
