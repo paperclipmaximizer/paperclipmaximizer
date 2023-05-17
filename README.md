@@ -18,3 +18,6 @@
                                     and if the "medium" refracts it, then the "correction" would give just a 
                                     straight ray (of activity, a glipse) or a blank space (for the object qua fact).
                                     And for fun, well, I have a pet bird :)
+
+
+[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
