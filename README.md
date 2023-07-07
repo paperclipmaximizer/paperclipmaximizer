@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently reading:         Hegel's Ladder (H S Harris)
-- 🌱 I’m currently learning:        [how to design programs](https://htdp.org/)
-- 👯 I’m looking to collaborate on: Coding projects, ml and llm, data science or functional programming
-- 🤔 I’m looking for help with:     Jean-Yves Girard's Ludics
+- 🌱 I’m currently learning:        [Programming Languages](https://www.coursera.org/learn/programming-languages) offered by University of Washington 
+- 👯 I’m looking to collaborate on: Coding projects, ml and llm, data science, functional programming, or anything interesting
+- 🤔 I’m looking for help with:     A game dev project, 
 - 💬 Ask me about:                  "speculative logic"
-- 📫 How to reach me: ...
+- 📫 You can reach me:              Here.
 - ⚡ Fun fact:                      Before we attempt the cognition of what is fun, it seems 
                                     reasonable to ask whether facticity is possible. Perhaps there is a special
                                     mode of cognition for it. But scepticism about it seems more reasonable, because 
