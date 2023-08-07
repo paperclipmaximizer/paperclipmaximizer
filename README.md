@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently reading:         Hegel's Ladder (H S Harris)
-- 🌱 I’m currently learning:        [Programming Languages](https://www.coursera.org/learn/programming-languages-part-c) offered by University of Washington and my overall  OSSU Progress
+- 🌱 I’m currently learning:        [Programming Languages](https://www.coursera.org/learn/programming-languages-part-c) offered by University of Washington
 - 👯 I’m looking to collaborate on: Coding projects, ml and llm, data science, functional programming, or anything interesting
 - 🤔 I’m looking for help with:     A game dev project, 
 - 💬 Ask me about:                  "speculative logic"
